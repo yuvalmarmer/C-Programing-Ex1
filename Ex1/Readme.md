@@ -5,7 +5,7 @@
 
 ## General info
 This project is simple Math library for C class Ariel University.
-Wirrten by Yuval Marmer and David Harush.
+Written by Yuval Marmer and David Harush.
 	
 ## Requierments
 * Linux (Tested on Ubuntu)
