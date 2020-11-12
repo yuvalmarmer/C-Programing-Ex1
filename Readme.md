@@ -1,5 +1,5 @@
 
-#Ex1 - C Programing
+# Ex1 - C Programing
 
 ## Table of contents
 * [General info](#general-info)
